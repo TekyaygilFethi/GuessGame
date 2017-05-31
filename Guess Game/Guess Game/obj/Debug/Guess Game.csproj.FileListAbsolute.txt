@@ -1,0 +1,20 @@
+C:\Users\teknik-2\Desktop\Oyun Proje Algoritma\Guess Game\Guess Game\obj\Debug\Guess Game.csprojResolveAssemblyReference.cache
+C:\Users\teknik-2\Desktop\Oyun Proje Algoritma\Guess Game\Guess Game\bin\Debug\Guess Game.exe
+C:\Users\teknik-2\Desktop\Oyun Proje Algoritma\Guess Game\Guess Game\bin\Debug\Guess Game.pdb
+C:\Users\teknik-2\Desktop\Oyun Proje Algoritma\Guess Game\Guess Game\obj\Debug\Guess Game.exe
+C:\Users\teknik-2\Desktop\Oyun Proje Algoritma\Guess Game\Guess Game\obj\Debug\Guess Game.pdb
+F:\Yazılım Projeler\C#\Guess Game\Guess Game\obj\Debug\Guess Game.exe
+F:\Yazılım Projeler\C#\Guess Game\Guess Game\obj\Debug\Guess Game.pdb
+F:\Yazılım Projeler\C#\Guess Game\Guess Game\bin\Debug\Guess Game.exe
+F:\Yazılım Projeler\C#\Guess Game\Guess Game\bin\Debug\Guess Game.pdb
+F:\Yazılım Projeler\C#\Guess Game\Guess Game\obj\Debug\Guess Game.csprojResolveAssemblyReference.cache
+F:\YAZILIM PROJELERİM\Guess Game\Guess Game\obj\Debug\Guess Game.exe
+F:\YAZILIM PROJELERİM\Guess Game\Guess Game\obj\Debug\Guess Game.pdb
+F:\YAZILIM PROJELERİM\Guess Game\Guess Game\bin\Debug\Guess Game.exe
+F:\YAZILIM PROJELERİM\Guess Game\Guess Game\bin\Debug\Guess Game.pdb
+F:\YAZILIM PROJELERİM\Guess Game\Guess Game\obj\Debug\Guess Game.csprojResolveAssemblyReference.cache
+F:\YAZILIM PROJELERİM(MESLEKİ!)\Guess Game\Guess Game\obj\Debug\Guess Game.exe
+F:\YAZILIM PROJELERİM(MESLEKİ!)\Guess Game\Guess Game\obj\Debug\Guess Game.pdb
+F:\YAZILIM PROJELERİM(MESLEKİ!)\Guess Game\Guess Game\bin\Debug\Guess Game.exe
+F:\YAZILIM PROJELERİM(MESLEKİ!)\Guess Game\Guess Game\bin\Debug\Guess Game.pdb
+F:\YAZILIM PROJELERİM(MESLEKİ!)\Guess Game\Guess Game\obj\Debug\Guess Game.csprojResolveAssemblyReference.cache
